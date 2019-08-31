@@ -1,7 +1,11 @@
 # pow
 
+---
+### Build Statuses
+
 #### [![Build Status](https://travis-ci.org/pinecat/pow.svg?branch=master)](https://travis-ci.org/pinecat/pow) website
 #### *n/a* bot
+---
 
 A Discord weather bot used for collecting ski resort conditions.
 
