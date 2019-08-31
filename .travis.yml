@@ -6,7 +6,6 @@ cache:
     - ./website/node_modules
 script:
   - cd ./website
-  - npm test
-  - npm run build
+  - yarn start
 on:
   branch: master
